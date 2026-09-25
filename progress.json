@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T22:46:37.513Z",
+  "generated_at": "2026-09-25T22:49:10.525Z",
   "items": {
     "problem:881": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-09-25T23:47:53.733Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-09-25T23:50:26.990Z",
+      "last_pushed_at": "2026-09-25T23:50:26.990Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
