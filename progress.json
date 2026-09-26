@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:31:13.855Z",
+  "generated_at": "2026-09-26T16:54:55.782Z",
   "items": {
     "problem:881": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-09-26T16:32:30.715Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:902": {
+      "kind": "problem",
+      "id": "902",
+      "title": "Implement BatchNorm2d from Scratch (training mode)",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/902",
+      "path": "problems/0902-implement-batchnorm2d-from-scratch-training-mode",
+      "first_solved_at": "2026-09-26T17:56:12.844Z",
+      "last_pushed_at": "2026-09-26T17:56:12.844Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
